@@ -14,7 +14,7 @@ https://github.com/OpenSourceCommunityBrasil/TRscPix <br>
 BANCO DO BRASIL,BRADESCO, SANTANDER,GERENCIANET, SICOOB,	SICRED, PAGSEGURO, ITAU <br>
 
 <b>ACBR Suite</b><br>
-<b>PIX<b> https://github.com/ProjetoACBr/ACBr/tree/master/Exemplos/ACBrPIXCD <br>
+<b>PIX</b> https://github.com/ProjetoACBr/ACBr/tree/master/Exemplos/ACBrPIXCD <br>
 <b>Boleto</b> https://github.com/ProjetoACBr/ACBr/tree/master/Exemplos/ACBrBoleto <br>
 
 <b>PIX - Payload generator DotNet</b><br>
