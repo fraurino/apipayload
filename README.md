@@ -1,7 +1,12 @@
-# *Lista Pagamento Digital | List Pay Digital*
+# *Lista de API para pagamentos/recebimentos | List Pay API*
 Lista de Componentes para Pagamentos e Recebimentos <br>
 List of Components for Payments and Receipts
 
+
+<b>Safe2Pay</b><br>
+Cadastro: https://safe2pay.com.br/comecar?hash=582115CFC6B74C66A89DE71D5DBA3734<br>
+API: https://developers.safe2pay.com.br/ <br>
+Taxa por boleto pago: 1.90 válido pelo link do cadastro acima. sujeito a alterações sem aviso prévio.<p>
 
 <b>Gerencianet</b> <br>
 https://github.com/gerencianet/gn-api-sdk-delphi-pix <br>
